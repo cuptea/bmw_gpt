@@ -181,5 +181,18 @@ acc_values = [
     acc_reduced_after,
 ]
 
-plot_training_loss(epoch_loss_main, epoch_loss_reduced)
-plot_validation_metrics(scenario_labels, loss_values, acc_values)
+result_dir = "result"
+os.makedirs(result_dir, exist_ok=True)
+
+plot_training_loss(
+    epoch_loss_main,
+    epoch_loss_reduced,
+    output_path=os.path.join(result_dir, "training_loss_comparison.png"),
+)
+plot_validation_metrics(
+    scenario_labels,
+    loss_values,
+    acc_values,
+    loss_output_path=os.path.join(result_dir, "validation_loss_comparison.png"),
+    acc_output_path=os.path.join(result_dir, "validation_accuracy_comparison.png"),
+)
