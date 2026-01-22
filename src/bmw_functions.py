@@ -1,4 +1,5 @@
 import concurrent.futures
+import logging
 import os
 import re
 from pathlib import Path
@@ -9,6 +10,9 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 from tqdm import tqdm
+
+
+logger = logging.getLogger(__name__)
 
 
 def _process_single_file(path: Path) -> str:
@@ -31,7 +35,7 @@ def _process_single_file(path: Path) -> str:
                 return content
             return ""
     except Exception as e:
-        print(f"Warning: Failed to read {path}: {e}")
+        logger.warning("Failed to read %s: %s", path, e)
         return ""
 
 
@@ -47,7 +51,7 @@ def load_text_files(data_dir: Path, sample_fraction: float) -> List[str]:
 
     texts: List[str] = []
     total_files = len(txt_files)
-    print(f"Found {total_files} .txt files")
+    logger.info("Found %s .txt files", total_files)
 
     # Use ThreadPoolExecutor for I/O-bound tasks (reading files)
     # Adjust max_workers based on your system's capabilities and nature of task
@@ -63,7 +67,7 @@ def load_text_files(data_dir: Path, sample_fraction: float) -> List[str]:
                 texts.append(content)
 
     total_chars = sum(len(text) for text in texts)
-    print(f"Successfully loaded {len(texts)} text files (~{total_chars:,} characters)")
+    logger.info("Successfully loaded %s text files (~%s characters)", len(texts), f"{total_chars:,}")
     return texts
 
 
@@ -118,7 +122,7 @@ def sample_text(
     for i in range(num_return_sequences):
         tokens = x[i, :max_length].tolist()
         decoded = enc.decode(tokens)
-        print(">", decoded)
+        logger.info("> %s", decoded)
 
 
 def render_example(example) -> Tuple[dict, torch.Tensor, torch.Tensor, int]:
@@ -211,9 +215,9 @@ def evaluate_multi_choice(model: nn.Module, device: str, bmw_multi_choice_data) 
 
         # debug: pretty print a few examples, and the losses in each case
         if num_total == 10:
-            print("---")
-            print(f"Context:\n {example['question_context']}")
-            print("Endings:")
+            logger.info("---")
+            logger.info("Context:\n %s", example["question_context"])
+            logger.info("Endings:")
             for i, end in enumerate(
                 [
                     example["choice_1"],
@@ -222,10 +226,16 @@ def evaluate_multi_choice(model: nn.Module, device: str, bmw_multi_choice_data) 
                     example["choice_4"],
                 ]
             ):
-                print(f"{i} (loss: {avg_loss[i].item():.4f}) {end}")
-            print(f"predicted: {pred_norm}, actual: {label}")
+                logger.info("%s (loss: %.4f) %s", i, avg_loss[i].item(), end)
+            logger.info("predicted: %s, actual: %s", pred_norm, label)
 
-    print(f"{num_total} acc_norm: {num_correct_norm}/{num_total}={num_correct_norm/num_total:.4f}")
+    logger.info(
+        "%s acc_norm: %s/%s=%.4f",
+        num_total,
+        num_correct_norm,
+        num_total,
+        num_correct_norm / num_total,
+    )
     final_acc = num_correct_norm / num_total
     return final_acc
 

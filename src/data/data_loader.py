@@ -1,5 +1,9 @@
+import logging
 import tiktoken
 import torch
+
+
+logger = logging.getLogger(__name__)
 
 
 class DataLoaderLite:
@@ -12,9 +16,9 @@ class DataLoaderLite:
         enc = tiktoken.get_encoding("gpt2")
         tokens = enc.encode(text)
         self.tokens = torch.tensor(tokens)
-        print(f"loaded {len(self.tokens)} tokens")
+        logger.info("loaded %s tokens", len(self.tokens))
         self.batch_per_epoch = len(self.tokens) // (B * T)
-        print(f"1 epoch = {self.batch_per_epoch} batches")
+        logger.info("1 epoch = %s batches", self.batch_per_epoch)
 
         # state
         self.current_position = 0

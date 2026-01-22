@@ -1,9 +1,13 @@
+import logging
 import math
 from dataclasses import dataclass
 
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
+
+
+logger = logging.getLogger(__name__)
 
 
 class CausalSelfAttention(nn.Module):
@@ -133,7 +137,7 @@ class GPT(nn.Module):
         assert model_type in {"gpt2", "gpt2-medium", "gpt2-large", "gpt2-xl"}
         from transformers import GPT2LMHeadModel
 
-        print("loading weights from pretrained gpt: %s" % model_type)
+        logger.info("loading weights from pretrained gpt: %s", model_type)
 
         # n_layer, n_head and n_embd are determined from model_type
         config_args = {
