@@ -20,8 +20,8 @@ import pandas as pd
 import torch.nn as nn
 
 from src.bmw_functions import evaluation, evaluate_multi_choice, load_text_files, sample_text, train
-from src.data_loader import DataLoaderLite
-from src.gpt_model import GPT
+from src.data.data_loader import DataLoaderLite
+from src.model.gpt_model import GPT
 from src.visualization import plot_training_loss, plot_validation_metrics
 
 
