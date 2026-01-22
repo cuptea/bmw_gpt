@@ -89,7 +89,7 @@ The script writes comparison plots to `result/`:
 - Sample max length: `300`
 
 ## Results
-Below are the generated figures. They compare baseline GPT2 vs the reduced model before and after fine-tuning.
+Below are the generated sample text and generated figures. They compare baseline GPT2 vs the reduced model before and after fine-tuning.
 
 ### Generated Sample Text
 Comparison view (before vs after fine-tuning) for the main and reduced models.
@@ -191,13 +191,15 @@ BMW M4 Sedan Hybrid variants. Thanks to the support of BMW M Motorsport
 </table>
 
 ![Training loss comparison](result/training_loss_comparison.png)
-The training loss curve shows how each model converges across epochs.
+The training loss curves show convergence across epochs. The reduced model maintains higher loss than the full model throughout training.
 
 ![Validation loss comparison](result/validation_loss_comparison.png)
-Validation loss summarizes generalization before and after fine-tuning for both models.
+Validation loss on hold-out BMW news summarizes generalization before and after fine-tuning. The reduced model starts higher, but the gap narrows after fine-tuning.
 
 ![Validation accuracy comparison](result/validation_accuracy_comparison.png)
-Validation accuracy compares multi-choice QA performance across the four scenarios.
+Validation accuracy compares multi-choice QA performance across the four scenarios. The reduced model starts lower, then becomes comparable to the full model after fine-tuning.
+
+Summary: the reduced model has fewer parameters and capacity, so it starts weaker than the full model. After fine-tuning, the validation loss and multi-choice accuracy become comparable, likely because the BMW dataset is small enough for both models to fit well.
 
 ## Notes
 - Logging is enabled in the script for progress visibility.
@@ -205,5 +207,10 @@ Validation accuracy compares multi-choice QA performance across the four scenari
 
 ## Future Work
 - Add configurable training arguments (epochs, batch size, learning rate).
+- Shuffle text file order in the data loader.
 - Expand evaluation with additional QA sets and metrics.
 - Add model checkpointing and resume training support.
+- Speed up training and inference:
+  - Use `torch.float16` for faster training and inference.
+  - Use `torch.compile` to speed up training.
+  - Use FlashAttention (up to 7.6x faster).
