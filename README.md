@@ -94,7 +94,7 @@ Below are the generated sample text and generated figures. They compare baseline
 ### Generated Sample Text
 Comparison view (before vs after fine-tuning) for the main and reduced models.
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <colgroup>
     <col style="width: 50%;" />
     <col style="width: 50%;" />
@@ -104,8 +104,8 @@ Comparison view (before vs after fine-tuning) for the main and reduced models.
     <th align="left">GPT2 (after)</th>
   </tr>
   <tr>
-    <td valign="top">
-      <pre style="white-space: pre-wrap; margin: 0;">
+    <td valign="top" style="width: 50%;">
+      <pre style="white-space: pre-wrap; margin: 0; max-width: 100%;">
 BWM Germany today announced the discontinuation of the ASUS RTM Series, the successor to the Computer to the AMD Radeon R9 M395. 27 September 06:39 PM EDT - Radeon - R9 M395
 
 Intel Releases A "New Open-Source Computer" for the Open-Source Intel open-source codename to the successor of the Intel Xeon Gold series? 27 September 06:59 PM EDT - Intel - "Biological Computing" and "Clima"
@@ -117,8 +117,8 @@ Solus Releases Their Plan To Get A Hold of Business x86 Speculation Mitigation W
 Known With The Enemy 紫命の黒龍喚士・リエト 地夏太郎 不破圓明流継承者・不破北斗 七代目武装戦線・ジン=フリークス毒毒動 七代目武装戦線・ヤ魔モトP 十字
       </pre>
     </td>
-    <td valign="top">
-      <pre style="white-space: pre-wrap; margin: 0;">
+    <td valign="top" style="width: 50%;">
+      <pre style="white-space: pre-wrap; margin: 0; max-width: 100%;">
 BWM Germany today announced the addition of
   “Die Klingenblatt über die Neue Untersuchung der Menschen von Besammen (Procrastination)
   ist den Wirtschaftsleife.
@@ -143,7 +143,7 @@ The BMW M8 CS, with its 5.0-litre 4 x 10-speed twin-turbo automatic,
   </tr>
 </table>
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <colgroup>
     <col style="width: 50%;" />
     <col style="width: 50%;" />
@@ -153,8 +153,8 @@ The BMW M8 CS, with its 5.0-litre 4 x 10-speed twin-turbo automatic,
     <th align="left">GPT2 Reduced (after)</th>
   </tr>
   <tr>
-    <td valign="top">
-      <pre style="white-space: pre-wrap; margin: 0;">
+    <td valign="top" style="width: 50%;">
+      <pre style="white-space: pre-wrap; margin: 0; max-width: 100%;">
 BWM Germany today announced that its Call of Duty® Call of Duty® Extreme League™ have been awarded $2 billion USD by the National Association of Manufactured Masks. The award recognizes excellence in excellence in manufacturing and services related to manufacture and services related to professional brands and brands. The award includes $250 million USD from the National Association of Manufactured Masks; $250 million USD from the National Association of Manufactured Masks Manufacturing Advisory Council; and $250 million USD from the National Association of Manufactured Masks Manufacturing Advisory Council. The award also includes $250 million USD from the National Association of Manufactured Masks Manufacturing Advisory Council.
 
 About Call of Duty® Extreme League™
@@ -166,8 +166,8 @@ About Call of Duty® Extreme League™
 Call of Duty® Extreme League™ combines excellence in manufacturing and services related to manufacturing and services related to professional brands and
       </pre>
     </td>
-    <td valign="top">
-      <pre style="white-space: pre-wrap; margin: 0;">
+    <td valign="top" style="width: 50%;">
+      <pre style="white-space: pre-wrap; margin: 0; max-width: 100%;">
 BWM Germany today announced that they have acquired the assets of “CALC USA”.
 Date: 08.12.2025
 Categories: Press Release, BMW M Motorsport, WorldSBK, BMW M Motorsport, MINI and MINI Cooper
