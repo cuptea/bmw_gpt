@@ -8,7 +8,9 @@ Original file is located at
 
 """
 """#   0 Check and install libraries"""
+import logging
 import os
+
 import matplotlib.pyplot as plt
 import transformers
 import torch
@@ -23,8 +25,15 @@ from src.data_loader import DataLoaderLite
 from src.gpt_model import GPT
 
 
-print(f"transformers version: {transformers.__version__}")
-print(f"torch version: {torch.__version__}")
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s",
+)
+logger = logging.getLogger(__name__)
+
+
+logger.info("transformers version: %s", transformers.__version__)
+logger.info("torch version: %s", torch.__version__)
 
 # attempt to autodetect the device
 device = "cpu"
@@ -32,7 +41,7 @@ if torch.cuda.is_available():
     device = "cuda"
 elif hasattr(torch.backends, "mps") and torch.backends.mps.is_available():
     device = "mps"
-print(f"using device: {device}")
+logger.info("using device: %s", device)
 
 SAMPLE_PROMPT = "BWM Germany today"
 NUM_RETURN_SEQUENCES = 2
@@ -50,7 +59,7 @@ def build_sample_tokens(prompt: str, num_return_sequences: int):
 def run_validation(model, valid_text, device, label):
     valid_loader = DataLoaderLite(B=8, T=64, text=valid_text)
     loss = evaluation(model, valid_loader, device)
-    print(f"\nThe average validation loss {label}: {loss}")
+    logger.info("validation loss %s: %.6f", label, loss)
     return loss
 
 """#1 Prepare data"""
@@ -65,17 +74,20 @@ train_strings = texts[:train_data_file_number]
 valid_strings = texts[train_data_file_number:]
 train_text = "\n".join(train_strings)
 valid_text = "\n".join(valid_strings)
-print('='*80)
-print(f"There are {train_data_file_number} files included in training data and {sum(len(text) for text in train_strings)} characters")
-print("Training data sample")
-print('='*80)
-print(print(train_text[:300]))
-print()
-print('='*80)
-print(f"There are {len(texts)-train_data_file_number} files included in validation data and {sum(len(text) for text in valid_strings)} characters")
-print("Validation data sample")
-print('='*80)
-print(print(valid_text[:300]))
+train_chars = sum(len(text) for text in train_strings)
+valid_chars = sum(len(text) for text in valid_strings)
+logger.info(
+    "training data: %s files, %s characters",
+    train_data_file_number,
+    train_chars,
+)
+logger.info("training data sample:\n%s", train_text[:300])
+logger.info(
+    "validation data: %s files, %s characters",
+    len(texts) - train_data_file_number,
+    valid_chars,
+)
+logger.info("validation data sample:\n%s", valid_text[:300])
 
 """## 1.3 Load 100 BMW multi choice Q&A"""
 df= pd.read_csv('./data/bmw_multi_choice/data.csv')
