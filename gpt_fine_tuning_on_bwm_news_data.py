@@ -30,8 +30,6 @@ logging.basicConfig(
     format="%(asctime)s | %(levelname)s | %(message)s",
 )
 logger = logging.getLogger(__name__)
-
-
 logger.info("transformers version: %s", transformers.__version__)
 logger.info("torch version: %s", torch.__version__)
 
@@ -63,7 +61,6 @@ def run_validation(model, valid_text, device, label):
     return loss
 
 """#1 Prepare data"""
-
 """## 1.1 Load dataset from google drive"""
 texts = load_text_files(Path("./data/bmw_news"), 1)
 
@@ -109,17 +106,13 @@ model.to(device)
 loss_main_before = run_validation(model, valid_text, device, "before fine tuning")
 
 """##2.5 Sample text generation before fine tuning"""
-
-# sample text generation
 enc, sample_tokens = build_sample_tokens(SAMPLE_PROMPT, NUM_RETURN_SEQUENCES)
 sample_text(model, NUM_RETURN_SEQUENCES, MAX_LENGTH, enc, sample_tokens, device)
 
 """## 2.6 BMW news Q&A evaluation before fine tuning"""
-
 acc_main_before = evaluate_multi_choice(model, device, bmw_multi_choice_data)
 
 """## 2.7 Model fine tuning"""
-
 train_loader = DataLoaderLite(B=8, T=64, text=train_text)
 model, epoch_loss_main = train(train_loader, model, 5, device)
 
@@ -127,27 +120,18 @@ model, epoch_loss_main = train(train_loader, model, 5, device)
 loss_main_after = run_validation(model, valid_text, device, "after fine tuning")
 
 """##2.9 Sample text generation after fine tuning"""
-
-# sample text generation
 sample_text(model, NUM_RETURN_SEQUENCES, MAX_LENGTH, enc, sample_tokens, device)
 
 """## 2.10 BMW news Q&A evaluation after fine tuning"""
-
 acc_main_after = evaluate_multi_choice(model, device, bmw_multi_choice_data)
 
-"""# 3: Stretch version
-
-## 3.1 Create model and initialize the weights from GPT2 from HuggingFace
-"""
-
-
-
+"""# 3: Stretch version"""
+"""## 3.1 Create model and initialize the weights from GPT2 from HuggingFace"""
 # load open weights gpt2 model from https://huggingface.co/openai-community/gpt2
 # n_layer=12, n_head=12, n_embd=768, 124M params
 model_reduced= GPT.from_pretrained('gpt2')
 
 """## 3.2 Remove the last transformer block from the GPT2 model"""
-
 # Remove last block
 model_reduced.transformer.h = nn.ModuleList(model_reduced.transformer.h[:-1])
 
@@ -159,16 +143,12 @@ model_reduced.to(device)
 loss_reduced_before = run_validation(model_reduced, valid_text, device, "before fine tuning")
 
 """## 3.4 Sample text generation before fine tuning"""
-
-# sample text generation
 sample_text(model_reduced, NUM_RETURN_SEQUENCES, MAX_LENGTH, enc, sample_tokens, device)
 
 """## 3.5 BMW news Q&A evaluation before fine tuning"""
-
 acc_reduced_before = evaluate_multi_choice(model_reduced, device, bmw_multi_choice_data)
 
 """## 3.6 Reduced model fine training"""
-
 train_loader = DataLoaderLite(B=8, T=64, text=train_text)
 model_reduced, epoch_loss_reduced = train(train_loader, model_reduced, 5, device)
 
@@ -176,12 +156,9 @@ model_reduced, epoch_loss_reduced = train(train_loader, model_reduced, 5, device
 loss_reduced_after = run_validation(model_reduced, valid_text, device, "after fine tuning")
 
 """##3.8 Sample text generation after fine tuning"""
-
-# sample text generation
 sample_text(model_reduced, NUM_RETURN_SEQUENCES, MAX_LENGTH, enc, sample_tokens, device)
 
 """## 3.9 BMW news Q&A evaluation after fine tuning"""
-
 acc_reduced_after = evaluate_multi_choice(model_reduced, device, bmw_multi_choice_data)
 
 """# 4 Plot training loss and validation metrics"""
