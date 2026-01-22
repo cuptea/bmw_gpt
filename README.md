@@ -2,6 +2,8 @@
 
 This repo fine-tunes a GPT-2 model on BMW press-release text from https://www.press.bmwgroup.com/global/ and evaluates it with a small multi-choice QA set. It also trains a reduced GPT-2 variant (one fewer transformer block) and compares training loss, validation loss, and accuracy.
 
+The training data was collected using the BMW press crawler at https://github.com/cuptea/bmw_crawler, which gathered 12,948 news items. To keep runs quick, this repo includes only 196 news files.
+
 ## Project Structure
 - `gpt_fine_tuning_on_bmw_news_data.py`: main script (data prep, training, eval, plots)
 - `src/`:
