@@ -1,0 +1,101 @@
+id,question_context,choice_1,choice_2,choice_3,choice_4,correct_label_index
+1,"The partnership between the BMW Group and UNICEF focuses primarily on creating what for young people?","Employment contracts","Educational opportunities","Racing licenses","Travel vouchers",1
+2,"Which specific educational field is emphasized in the BMW and UNICEF partnership?","Classical literature","STEM education","Culinary arts","Music theory",1
+3,"The BMW iX3 Long Wheelbase development philosophy is described by which phrase?","Made in Europe for the World","In China, for China, and with China","Designed in America for local roads","Global innovation from Munich",1
+4,"The BMW iX3 showcases innovation from which upcoming vehicle generation?","Classic Series","Neue Klasse","Modern Era","Future Tech",1
+5,"Where will the BMW Art Car World Tour kick off its next leg in early twenty-twenty-six?","Berlin","London","Paris","New York",2
+6,"The BMW Art Car World Tour is a celebration of the fusion between which two fields?","Speed and endurance","Art and automotive innovation","Fashion and music","History and politics",1
+7,"The BMW Art Car Collection features masterpieces created by whom?","Automotive engineers","Renowned artists","Professional drivers","Celebrity actors",1
+8,"Which British fashion brand collaborated with MINI on a special edition mentioned in the news?","Burberry","Paul Smith","Vivienne Westwood","Alexander McQueen",1
+9,"BMW M Team WRT is gaining experience with the BMW M Hybrid Veight for which race premiere class?","IMSA GTP class","GTD class","Stock Car class","Formula One",0
+10,"Which racing team is pushing for success in the GTD classes with the BMW M four GT three EVO?","Red Bull Racing","Paul Miller Racing","Andretti Team","Ferrari Scuderia",1
+11,"BMW Motorrad confirmed its leading position in which market segment?","Economy segment","Premium segment","Off-road segment only","Scooter segment",1
+12,"Which vehicle was honored as the safest in its class at the Euro NCAP Awards?","BMW iX three","MINI Cooper Electric","BMW M five","BMW ALPINA",1
+13,"The new fully electric BMW M models feature which specific drive system?","BMW eDrive Plus","BMW M eDrive","BMW Electric Core","BMW Power Drive",1
+14,"The BMW M eDrive system in high-performance models includes which technology for dynamics?","Manual Gear Shift","Integrated BMW M Dynamic Performance Control","Hydrogen Booster","Solar Range Extender",1
+15,"BMW Group received an innovation award for using which natural material in vehicle parts?","Recycled oak","Flax fibres","Bamboo","Hemp",1
+16,"Which award did the BMW Group win for its use of natural composites?","Green Tech Award","JEC Composites Innovation Award","Safety First Award","Design Excellence Award",1
+17,"Which MINI sub-brand is specifically mentioned as continuing its success in the latest sales report?","Mini Minor","John Cooper Works","Seven Edition","Electric Blue",1
+18,"BMW M GmbH has achieved a long streak of record years; how many are recorded in the latest report?","Five","Ten","Fourteen","Twenty",2
+19,"Which model was identified as the best-selling model for BMW M GmbH?","BMW M two","BMW X three M fifty","BMW i four M fifty","BMW M five Touring",1
+20,"In the high-performance segment, growth is being driven by the BMW M five and which other model?","BMW M eight","BMW M five Touring","BMW M three Sedan","BMW X one M",1
+21,"In which regions did the BMW Group see particularly strong sales performance in twenty-twenty-five?","Asia and Australia","Europe and the United States","South America and Africa","Canada and Mexico",1
+22,"Jochen Goller noted that vehicles were sold at a higher volume than the previous year despite what?","A booming economy","A challenging environment","Lack of inventory","Falling demand",1
+23,"What proportion of cars manufactured in Germany come from the BMW Group?","One tenth","One eighth","One quarter","One third",2
+24,"What is cited as a key success factor for BMW Group production in Germany?","Single-fuel focus","Technology openness","Manual assembly only","Outsourcing",1
+25,"What is the name of the BMW Group production system described as the key to competitiveness?","BMW iFACTORY","BMW Digital Plant","BMW Green Hub","BMW Robotic Center",0
+26,"The BMW iX3 innovations were demonstrated at which major technology event?","Mobile World Congress","Consumer Electronics Show","SXSW","TechCrunch Disrupt",1
+27,"The new BMW Intelligent Personal Assistant uses technology from which partner?","Google","Apple","Amazon","Microsoft",2
+28,"Which specific Amazon technology is integrated into the new BMW AI assistant?","Alexa Prime","Alexa plus","Alexa Voice","Alexa Auto",1
+29,"What is the name of the revolutionary user-interaction system in the new BMW iX3?","BMW Gesture Hub","BMW Panoramic iDrive","BMW Touch Control","BMW Smart Screen",1
+30,"The driving dynamics of the new iX3 are powered by a concept called what?","The Core of Power","The Heart of Joy","The Spirit of Speed","The Pulse of Driving",1
+31,"What is the name of the seamless driver assistance system in the new iX3?","BMW AutoPilot","BMW Symbiotic Drive","BMW SafeLink","BMW GuardDrive",1
+32,"Which operating system is mentioned as having an ever-evolving entertainment and app ecosystem?","BMW OS Nine","BMW Operating System X","BMW Drive OS","BMW Cloud System",1
+33,"The BMW ALPINA brand wordmark represents a combination of what two things?","Speed and Style","History and Future","Comfort and Luxury","Tradition and Safety",1
+34,"What is the primary product focus of the BMW ALPINA brand?","Entry-level sedans","Individual customer requirements","Military vehicles","Public transport",1
+35,"Who is the driver that BMW M Motorsport thanked for twelve successful years?","Max Verstappen","Jesse Krohn","Lewis Hamilton","Sebastian Vettel",1
+36,"Jesse Krohn’s career is cited as a prime example of what?","Quick retirement","Successful promotion of young talent","Mechanical engineering expertise","Marketing success",1
+37,"In twenty-twenty-five, top talents voted the BMW Group as number one in what category?","Fuel efficiency","Employer attractiveness","Paint quality","Customer service",1
+38,"The BMW M four GT three EVO featured a special livery from which anime series?","Naruto","BLEACH","One Piece","Dragon Ball",1
+39,"Besides physical racetracks, where can the BLEACH-inspired BMW M four GT three EVO be seen?","Minecraft","Fortnite","Call of Duty","Grand Theft Auto",1
+40,"BMW Motorrad racers celebrate successes with which specific motorcycle model?","BMW R twelve","BMW M one thousand RR","BMW F nine hundred","BMW C forty",1
+41,"The BMW Art Car World Tour journey in twenty-twenty-five covered how many continents?","Two","Three","Five","Seven",2
+42,"Which city is specifically mentioned as a tech demo location in the United States?","Los Angeles","New York","Las Vegas","Chicago",2
+43,"The BMW Group’s sustainability award was specifically in which JEC category?","Aviation","Automotive and Road Transportation","Marine Construction","Consumer Electronics",1
+44,"What is the primary benefit of flax fibres in vehicle parts regarding emissions?","Increases CO2","Reduces CO2e emissions","Neutralizes methane","No effect on emissions",1
+45,"Which BMW M model is identified as a best-selling model in the current report?","BMW M three","BMW X three M fifty","BMW M eight","BMW XM",1
+46,"The BMW iX3 tech demo at CES twenty-twenty-six focused on what interaction?","Human-Vehicle Interaction","Vehicle-to-Vehicle","Internet of Things","Remote Engine Tuning",0
+47,"BMW M Motorsport teams prepared for which opening highlight of the twenty-twenty-six season?","Monaco Grand Prix","Roar Before the 24","Le Mans","Daytona Five Hundred",1
+48,"The BMW M Hybrid Veight appeared in which iconic design for its race premiere?","Classic Silver","BMW M Motorsport Inception","Stealth Black","Racing Gold",1
+49,"Which racing team is associated with Turner Motorsport in the GTD classes?","Red Bull","Paul Miller Racing","Mercedes AMG","Porsche Penske",1
+50,"What is the main goal of the STEM education program with UNICEF?","Racing skills","Supporting children and young people","Mechanical repair","Marketing training",1
+51,"How many countries are involved in the BMW and UNICEF educational partnership?","One","Three","Five","Ten",2
+52,"The BMW Art Car World Tour celebrated which anniversary of the collection?","Twenty-fifth","Fortieth","Fiftieth","Sixtieth",2
+53,"The MINI Paul Smith Edition is a collaboration between which two types of entities?","Two German brands","Two British brands","A German and French brand","A British and Italian brand",1
+54,"Which BMW M model is noted for driving growth in the high-performance segment alongside the M five?","M two CS","M five Touring","M eight","XM",1
+55,"What does the BMW iFACTORY aim to ensure for the production plants?","Lower car prices","Competitiveness","More colors","Faster tires",1
+56,"The BMW iX3 demo included natural dialogue enabled by what?","Touchscreens","Integrated AI assistant","Physical buttons","Hand signals",1
+57,"In which countries will the new BMW Intelligent Personal Assistant be available at market launch?","Germany and the UK","Germany and the US","China and Japan","France and Italy",1
+58,"The BMW ALPINA brand was introduced to the BMW Group on which day?","First of December","First of January","First of June","First of July",1
+59,"Jesse Krohn is known for winning at the Nürburgring and which other major track?","Monaco","Daytona","Silverstone","Spa",1
+60,"The BMW M four GT three EVO livery collaboration included which game besides Fortnite?","League of Legends","Rocket League","Overwatch","Dota Two",1
+61,"According to the sources, BMW Motorrad remains at the top of which segment?","Value segment","Premium segment","Utility segment","Custom segment",1
+62,"The MINI Cooper Electric’s safety rating was provided by which organization?","Consumer Reports","Euro NCAP","JD Power","Road and Track",1
+63,"What level of high-performance standards are fully electric BMW M models setting?","Entry level","Unrivalled","Average","Traditional",1
+64,"Which specific BMW eDrive generation is featured in the new iX3?","Fourth","Fifth","Sixth","Seventh",2
+65,"How many electric motors are offered in the BMW M eDrive system?","Two","Three","Four","Six",2
+66,"What is the primary theme of the Japan Mobility Show twenty-twenty-five keynote?","Off-road racing","BMW Group Keynote","Classic car restoration","Motorcycle manufacturing",1
+67,"The technical specifications for the MINI John Cooper Works Aceman are valid from which year?","Twenty-twenty-four","Twenty-twenty-five","Twenty-twenty-six","Twenty-twenty-seven",1
+68,"Which BMW series is celebrating fifty years of existence?","One Series","Three Series","Five Series","Seven Series",1
+69,"The BMW F four hundred fifty GS is a presentation from which division?","BMW i","BMW Motorrad","BMW M","BMW ALPINA",1
+70,"The BMW M two CS is listed under which section of the press club?","Old Topics","Latest Top Topics","Corporate News only","Sustainability",1
+71,"What type of vehicle-related duty is assessed based on WLTP values?","Insurance premiums","Taxes","Parking fees","Driver licensing",1
+72,"The BMW Group uses which test cycle as a basis for assessment in Germany?","NEDC","WLTP","EPA","FTP",1
+73,"Which organization provides fuel consumption and CO2 emission information for the German market?","BMW Group and DAT","UNICEF","IMSA","Euro NCAP",0
+74,"In the BMW iX3, the Intelligent Personal Assistant allows for what type of interaction?","Only typing","Natural dialogue","Hand gestures only","Blinking",1
+75,"The 'In China, for China, and with China' philosophy is specific to which model?","MINI Cooper","BMW iX3 Long Wheelbase","BMW M five","BMW ALPINA",1
+76,"The Rétromobile Paris event celebrated which BMW collection?","Vintage Motorcycle Collection","BMW Art Car Collection","Museum Engine Collection","Racing Driver Collection",1
+77,"How many BMW Art Cars are in the iconic collection mentioned in the sources?","Ten","Fifteen","Twenty","Twenty-five",2
+78,"Which IMSA racing highlight opens the twenty-twenty-six season?","Sebring Twelve Hours","Roar Before the 24","Petit Le Mans","Laguna Seca",1
+79,"The BMW M four GT three EVO livery was revealed at which location?","BMW Museum","BMW Welt","BMW Plant Munich","Nürburgring",1
+80,"The BMW Motorrad Motorsport report for twenty-twenty-five mentions how many additional championships?","Five","Ten","Twelve","Twenty",2
+81,"BMW racers achieved over one hundred victories in which year?","Twenty-twenty-three","Twenty-twenty-four","Twenty-twenty-five","Twenty-twenty-six",2
+82,"The BMW M Hybrid Veight is described as having which kind of development?","Aero-only","Further developed","First generation only","Outdated",1
+83,"What is the primary focus of the new BMW ALPINA wordmark?","Affordability","Embracing history and future","Removing letters","Only performance",1
+84,"Which car show is described as one of the world’s most prestigious for classic cars?","Tokyo Motor Show","Rétromobile Paris","Detroit Auto Show","Munich Mobility",1
+85,"What milestone did MINI reach regarding electrified vehicles in twenty-twenty-five?","Fifty thousandth","One hundred thousandth","Five hundred thousandth","One millionth",1
+86,"What proportion of MINIs sold worldwide are now fully electric?","Every second","Every third","Every fifth","Every tenth",1
+87,"The BMW M GmbH reported how many years as the most successful manufacturer among competitors?","Three","Five","Seven","Ten",2
+88,"Which BMW M model is identified as a growth driver in the high-performance segment?","M two","M five","M three","M four",1
+89,"Which country’s market saw increased market share for the BMW brand alongside the US?","China","Europe","Japan","Brazil",1
+90,"What concept does 'Neue Klasse' represent for BMW?","Old Tradition","Innovation generation","Entry level class","Luxury class only",1
+91,"The flax fibre components award belongs to which category?","Interior Design","Automotive and Road Transportation Parts","Engine Performance","Marketing Campaign",1
+92,"The BMW iX3 tech demo at CES twenty-twenty-six took place in which month?","December","January","March","June",1
+93,"The BMW ALPINA brand balances performance with what?","Low cost","Superior ride comfort","Heavy weight","Complex software",1
+94,"Jesse Krohn moved from being a junior driver to what status?","Retired","Daytona and Nürburgring winner","Accountant","Mechanic",1
+95,"How many teachers were trained in the BMW and UNICEF partnership?","One thousand","Five thousand","Over ten thousand","Twenty thousand",2
+96,"The BMW iX3 demo showcased AI-powered interaction using which platform?","Siri","Alexa+","Google Home","Bixby",1
+97,"What is the primary benefit of 'technology openness' in production?","Less variety","Competitiveness and success","Higher costs","Slower assembly",1
+98,"Which anime character or theme is the BLEACH livery based on?","The TV anime series","A comic book","A movie","A video game character only",0
+99,"The BMW Motorrad motorcycle sales figure confirmed their position in which segment?","Premium","Standard","Budget","Off-road only",0
+100,"The BMW Art Car tour traveled across more than how many countries?","Ten","Twenty","Thirty","Fifty",2
