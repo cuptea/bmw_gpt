@@ -1,3 +1,5 @@
+# https://github.com/karpathy/build-nanogpt/blob/master/train_gpt2.py
+
 import logging
 import math
 from dataclasses import dataclass
