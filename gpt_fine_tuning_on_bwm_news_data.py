@@ -11,18 +11,18 @@ Original file is located at
 import logging
 import os
 
-import matplotlib.pyplot as plt
 import transformers
 import torch
 import tiktoken
 
 from pathlib import Path
 import pandas as pd
-
+import torch.nn as nn
 
 from src.bmw_functions import evaluation, evaluate_multi_choice, load_text_files, sample_text, train
 from src.data_loader import DataLoaderLite
 from src.gpt_model import GPT
+from src.visualization import plot_training_loss, plot_validation_metrics
 
 
 logging.basicConfig(
@@ -140,7 +140,7 @@ acc_main_after = evaluate_multi_choice(model, device, bmw_multi_choice_data)
 ## 3.1 Create model and initialize the weights from GPT2 from HuggingFace
 """
 
-import torch.nn as nn
+
 
 # load open weights gpt2 model from https://huggingface.co/openai-community/gpt2
 # n_layer=12, n_head=12, n_embd=768, 124M params
@@ -184,16 +184,7 @@ sample_text(model_reduced, NUM_RETURN_SEQUENCES, MAX_LENGTH, enc, sample_tokens,
 
 acc_reduced_after = evaluate_multi_choice(model_reduced, device, bmw_multi_choice_data)
 
-plt.figure(figsize=(8, 5))
-plt.plot(epoch_loss_main, label="GPT2")
-plt.plot(epoch_loss_reduced, label="GPT2 (reduced)")
-plt.xlabel("Epoch")
-plt.ylabel("Loss")
-plt.legend()
-plt.tight_layout()
-plt.savefig("training_loss_comparison.png", dpi=150)
-plt.show()
-
+"""# 4 Plot training loss and validation metrics"""
 scenario_labels = [
     "GPT2 before",
     "GPT2 after",
@@ -213,20 +204,5 @@ acc_values = [
     acc_reduced_after,
 ]
 
-plt.figure(figsize=(9, 5))
-plt.bar(scenario_labels, loss_values, color=["#1f77b4", "#1f77b4", "#ff7f0e", "#ff7f0e"])
-plt.ylabel("Validation Loss")
-plt.title("Validation Loss by Scenario")
-plt.xticks(rotation=20, ha="right")
-plt.tight_layout()
-plt.savefig("validation_loss_comparison.png", dpi=150)
-plt.show()
-
-plt.figure(figsize=(9, 5))
-plt.bar(scenario_labels, acc_values, color=["#1f77b4", "#1f77b4", "#ff7f0e", "#ff7f0e"])
-plt.ylabel("Accuracy")
-plt.title("Validation Accuracy by Scenario")
-plt.xticks(rotation=20, ha="right")
-plt.tight_layout()
-plt.savefig("validation_accuracy_comparison.png", dpi=150)
-plt.show()
+plot_training_loss(epoch_loss_main, epoch_loss_reduced)
+plot_validation_metrics(scenario_labels, loss_values, acc_values)
