@@ -1,0 +1,65 @@
+================================================================================
+BMW Group scales Virtual Factory
+================================================================================
+
+Date: 11.06.2025
+Categories: Press Release, iFACTORY, Technology, Production, Recycling, Industry 4.0
+URL: https://www.press.bmwgroup.com/global/article/detail/T0450699EN/bmw-group-scales-virtual-factory
+
+--------------------------------------------------------------------------------
+
+Summary:
+--------------------------------------------------------------------------------
++++ Virtual automated collision checks ahead of new product launches +++ Core component of BMW iFACTORY +++ Up to 30-percent reduction in production planning costs projected +++ BMW Group to present Virtual Factory at NVIDIA GTC Paris +++
+
+Full Content:
+--------------------------------------------------------------------------------
+The BMW Group is industrialising its Virtual
+  Factory, with production planners continuously scaling applications in
+  the digital twins of over 30 production sites to accelerate production
+  planning worldwide. What once required several weeks of real-world
+  modifications and testing can now be precisely simulated in the BMW
+  Group’s Virtual Factory. To create optimal conditions for upcoming
+  launches at the plants, the BMW Group will integrate more than 40 new
+  or updated vehicles into its global production between now and 2027.
+  This will first be done virtually to ensure immediate stability at the
+  plants. Going forward, the BMW Group’s Virtual Factory is projected to
+  reduce production planning costs by up to 30 percent.
+
+Virtual planning is a core element of the BMW Group iFACTORY and
+  involves a wide range of tools. The intelligent linking of building
+  data, equipment data, logistics data, vehicle data and even 3D
+  simulation of manual work processes creates digital twins of all BMW
+  Group plants worldwide. In an industrial 3D metaverse application
+  based on NVIDIA Omniverse, simulations can be performed in real time,
+  enabling virtual optimisation of layouts, robotics and logistics
+  systems. The BMW Group’s Virtual Factory is continuously expanding to
+  incorporate generative and agentic AI functionalities and assistants.
+
+For every launch, it is essential to verify that the new product fits
+  on the production line and does not collide with its surroundings at
+  any point. In the BMW Group’s Virtual Factory, this collision check is
+  digital, automated and fast, using construction data combined with 3D
+  scans. The movement and rotation of a vehicle through the production
+  lines are precisely simulated, allowing the system to automatically
+  check for possible collisions. What now takes just three days to
+  simulate virtually previously required almost four weeks of real testing.
+
+In the past, a real vehicle body had to be manually guided through
+  the production lines – often over several weekends – to identify
+  potential collisions. In the paint shop, this process sometimes
+  required completely emptying and cleaning the dip coating tanks where
+  vehicle bodies are submerged for priming. The costs and time
+  investment for this were enormous.
+
+The BMW Group's Virtual Factory is rapidly evolving, enabling an
+  increasing number of applications to be scaled. In addition to
+  virtual, automated collision checks, this includes human simulation to
+  optimise manual production steps and automated identification of maps
+  of the surroundings from existing 3D scans for smart transport systems.
+
+Learn more about the BMW Group’s Virtual Factory at NVIDIA GTC Paris:
+
+Thursday, 12 June 2025 from 11:00 a.m. to 11:45 a.m. CEST.
+
+by the BMW Group.

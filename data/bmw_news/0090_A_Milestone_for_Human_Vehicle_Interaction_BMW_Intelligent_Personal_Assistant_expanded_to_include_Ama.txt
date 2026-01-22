@@ -1,0 +1,116 @@
+================================================================================
+A Milestone for Human-Vehicle Interaction. BMW Intelligent Personal Assistant expanded to include Amazon Alexa + Technology.
+================================================================================
+
+Date: 05.01.2026
+Categories: Press Release, NA5, Technology, BMW i, iX3, Connected Car, ConnectedDrive, Infotainment, Control Concepts, Mobility of the future, Artificial Intelligence
+URL: https://www.press.bmwgroup.com/global/article/detail/T0454477EN/a-milestone-for-human-vehicle-interaction-bmw-intelligent-personal-assistant-expanded-to-include-amazon-alexa-technology
+
+--------------------------------------------------------------------------------
+
+Summary:
+--------------------------------------------------------------------------------
++++ New level of natural dialogue enabled with integrated AI assistant, debuting in the new BMW iX3 +++ Available in Germany and the US at market launch 2026 +++ Presentation at CES 2026 +++
+
+Full Content:
+--------------------------------------------------------------------------------
+. In 2026, BMW will expand its BMW
+  Intelligent Personal Assistant, built on Amazon’s AI Alexa+
+  architecture, taking voice interaction between humans and vehicles to
+  a new level.
+
+BMW will become the first car manufacturer to integrate the AI
+  assistant technology into its vehicles, starting with the BMW iX3.
+  This new functionality enables intuitive and intelligent interaction
+  between passengers and the vehicle in a natural dialogue including
+  both the operation of vehicle functions as well as access to
+  information and knowledge beyond the vehicle.
+
+For the first time, users will also be able to ask multiple questions
+  in a single sentence covering both your vehicle’s features and general
+  knowledge topics.
+
+The ability to link the BMW Intelligent
+  Personal Assistant with Amazon accounts will also make it easier to
+  search for and stream music, retrieve public news, and access a wide
+  range of other content.
+
+"Our partnership with Amazon is based on a shared vision of
+  technological excellence," says Stephan Durach, BMW Group –
+  Senior Vice President Development, Digital Services, Infotainment,
+  Connected Company. "This has resulted in a product that sets new
+  standards in the naturalness of human-vehicle interaction through the
+  use of artificial intelligence. With the addition of Amazon's Alexa+
+  technology to the BMW Intelligent Personal Assistant, the vehicle
+  becomes an intelligent companion for its users."
+
+“BMW Group has been fantastic to work with as we introduce the first
+  implementation of the new Alexa Custom Assistant. BMW’s advanced
+  technology, combined with the intelligence and conversational
+  capabilities of Alexa+, creates a truly sophisticated in-vehicle
+  experience." says Daniel Rausch, Vice President of Alexa and Echo.
+
+Natural language and free choice of words represent the
+  latest development of the BMW Intelligent Personal Assistant. The use
+  of predefined voice commands (intents) is no longer necessary. This
+  means that with the BMW Intelligent Personal Assistant, various
+  requests and queries can be linked together as in a normal human
+  conversation, and follow-up questions can be asked. BMW customers can
+  trust that their vehicle understands them in context and provides the
+  appropriate answers. For example
+
+, when asked, “Hey BMW
+  what’s the most famous painting there is in the world and where can I
+  find it?” the BMW Intelligent Personal Assistant will provide the
+  corresponding answer (e.g., Mona Lisa, Leonardo da Vinci, Louvre) and
+  can link this answer directly to other vehicle functions such as
+  navigation. The follow-up request "Take me there!" will then
+  enable direct guidance to the exhibition location of the artwork. The
+  intelligent voice assistant also uses such interactive dialogues to
+  respond even more precisely to future voice commands and anticipate
+  the intent of the question.
+
+The integration of Amazon Alexa+ architecture into the BMW
+  Intelligent Personal Assistant represents a technological leap forward
+  that focuses on added value for the customer.
+
+The AI technology used in the BMW Intelligent Personal Assistant is a
+  Large Language Model (LLM), a generative AI that understands language
+  and is capable of formulating its own responses.
+
+The enhanced AI-supported BMW Intelligent Personal Assistant will be
+  presented to the public for the first time at CES 2026 in Las Vegas.
+  Starting in the second half of 2026, BMW iX3 customers in Germany and
+  the US will be the first to benefit from the advantages of the BMW
+  Intelligent Personal Assistant powered by Amazon Alexa+. Other markets
+  and model series will follow gradually. The UI/UX of the BMW iX3 is
+  based on the new BMW Panoramic iDrive control concept with BMW
+  Operating System X.
+
+This integration is an important step on the BMW Group's path to
+  offering this AI technology across the entire BMW model
+  range
+
+. It exemplifies the seamless integration of the
+  "software-defined vehicle" (SDV) into the customer's digital ecosystem.
+
+The BMW Intelligent Personal Assistant has played a central role in
+  the BMW iDrive operating concept since 2018. In 2022, the addition of
+  Amazon Alexa Custom Assistant to the BMW Intelligent Personal
+  Assistant led to even more information diversity, faster response
+  times, and better understanding of user requests. Most recently, in
+  2025, the intelligent voice assistant was expanded for all BMW
+  vehicles with Operating System 9 to include new functions such as
+  music search, news, sports, and general knowledge. The integration of
+  Amazon Alexa+ technology into the next-generation BMW Intelligent
+  Personal Assistant demonstrates the innovative power of the
+  cooperation between the BMW Group and Amazon.
+
+The video in the press release shows a question in
+  English. For the market launch, the corresponding languages, German
+  and English, will be offered for Germany and the US respectively.
+
+Latest in the 2
+
+half of 2026, gradually for
+  all BMW models with BMW Operating System 9 and X.

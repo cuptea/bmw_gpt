@@ -1,0 +1,245 @@
+================================================================================
+BMW Group achieves more efficient car usage through insights into trips, gamification and CO2-Aware Charging
+================================================================================
+
+Date: 21.11.2025
+Categories: Press Release, Mobility of the future
+URL: https://www.press.bmwgroup.com/global/article/detail/T0453927EN/bmw-group-achieves-more-efficient-car-usage-through-insights-into-trips-gamification-and-co2-aware-charging
+
+--------------------------------------------------------------------------------
+
+Summary:
+--------------------------------------------------------------------------------
+Three BMW Group pilots concluded to encourage efficient car usage +++ Visual rewards for energy-efficient driving and information on trips and real time CO2 emission of electricity mix, prove effective.
+
+Full Content:
+--------------------------------------------------------------------------------
+Our initiatives in collaboration with cities include mobility
+  research and piloting solutions, making driving and traffic more
+  efficient, while reducing congestion. Mobility behavior is an
+  important aspect for cities, especially regarding driving and parking
+  vehicles in urban areas. That is why we research how to make the
+  mobility behavior of our customers more city-friendly, tailored to
+  their individual needs. Through strategic collaborations, such as with
+  the city of Rotterdam, both parties gain deep insights into what the
+  city needs, and which solutions work well with drivers. Our research
+  shows that mobility behavior can be effectively influenced by nudging,
+  or in other words, the positive motivation of people.
+
+Through attractive digital experiences, we aim to enhance the driving
+  experience and encourage our customers to use their vehicles more
+  efficiently. Recently, three pilots based on relatively small but
+  positive incentives have been completed. The insights from these are promising.
+
+The research project named “My Travels”, conducted throughout the
+  Netherlands in the second half of 2024 with BMW models, provided a
+  report to users about the length of their trips made and offered
+  information on realistic alternatives such as travel by foot, bicycle,
+  or public transport. The results showed that simply gaining insight
+  into one's own travel behavior, including information on the length of
+  trips and alternative travel options, provides incentives to choose an
+  alternative mode of transport instead of the car. This result aligns
+  perfectly with Rotterdam's goal to free up roads for those who truly
+  need to use them.
+
+Additionally, we implemented a pilot with a gamification approach to
+  reduce the footprint of our products in the use phase. Real world data
+  from a representative BMW and MINI fully electric fleet show that
+  driving in the efficient driving mode generally results in an average
+  energy consumption reduction of about 7%. The “MINI Artwork Challenge”
+  pilot’s aim was to stimulate drivers to switch to this mode. It was
+  conducted in the first quarter of this year in the latest generation
+  fully electric MINI models Countryman and Cooper, exploring whether
+  gamification can encourage more energy-efficient driving behavior. In
+  this pilot, the virtual artwork – an AI generated image — grew larger
+  the more the user drove in the efficient driving mode. The pilot
+  results show this encouraged participants to increase their share of
+  trips in the efficient driving mode by 60% compared to the baseline phase.
+
+Finally, the research project “COOL” (CO
+
+Optimal
+  Charging) was a field experiment that started in April 2025. Its goal
+  was to provide plug-in hybrid and EV drivers with insights into
+  charging behavior and the associated CO
+
+emissions. By
+  using a simple and insightful app that shows CO₂ emissions per kWh of
+  the local electricity mix in real time and alerts the user when they
+  drop below a certain value, we support drivers in deciding when to
+  charge their vehicles.
+
+In total, 355 drivers of electric and plug-in hybrid BMW models
+  participated in this project, which brought at least two valuable
+  results. Gamification increased CO₂-improved EV charging by 6% and it
+  suggests that even participants who are already environmentally
+  conscious are still willing to take additional steps to reduce their
+    CO
+
+impact by charging their vehicles CO
+
+improved.
+
+The city of Rotterdam and BMW Group will use the insights gained to
+  develop more sustainable, user-oriented mobility concepts that improve
+  both individual mobility and the urban mobility ecosystem.
+
+This research project originated from a bachelor thesis supervised by
+  the University of Münster. Erasmus University Rotterdam was involved
+  as the regular research partner of BMW Netherlands in the design and
+  analysis of the feedback survey.
+
+Three hundred participants, drivers of BMW and MINI models across the
+  country, were provided with a test app that offered a clear view of
+  travel habits, at a more detailed level than the “My Trips” feature
+  already known to BMW and MINI customers from the My BMW and MINI app.
+
+The app contains two elements: Distances and Alternatives. The first
+  offered the driver transparency of their car trips. A pie chart
+  allowed app users to see at a glance how many trips they made weekly
+  of up to 1 kilometer, 1-5 kilometers, and 5 kilometers or more.
+  Alternatives provided insight into which realistic alternatives would
+  have been possible for specific trips: by foot, bicycle, or public
+  transport, including any distance and/or time savings.
+
+The research question was: do active app users reduce more trips
+  based on the travel report and recommendations for alternative modes
+  of transport than inactive users?
+
+Overall, analysis indicated that active users of the app reduced one
+  car trip weekly compared to participants who did not use the app. This
+  means that simply gaining insight into one's own travel behavior and
+  information on alternative travel options provides incentives to leave
+  the car unused once a week, potentially reducing traffic congestion in
+  the city.
+
+Zooming in on weekly trips, the reduction in car usage was even
+  slightly larger: active users made an average of 1.5 fewer trips (of
+  up to five kilometers). In other words, more than one short trip was
+  avoided. No significant decrease in car usage was seen on weekends.
+
+Factors influencing participants' choices related to timing (weekday
+  or weekend), weather conditions, and personal situation (with or
+  without children). This emerged from the comprehensive survey that was
+  part of the research. When asked which types of trips participants
+  were most inclined to swap for alternative transport, the top three
+  were: 1) to a park, restaurant, etc., 2) to the gym, 3) to the
+  supermarket. Picking up and dropping off children remains preferred by
+  car, as indicated by the last place in the ranking.
+
+When asked about the three main reasons to leave the car unused, the
+  top three were: 1) travel duration, 2) convenience and availability of
+  alternative modes of transport, 3) weather conditions.
+
+This pilot resulted from a graduation project within the BMW Group's
+  development department, which designs (product) solutions in the field
+  of energy and sustainable/urban mobility, part of the “Connected
+  Company”. An overarching goal of many of their projects is to promote
+  efficient driving habits to support potential reductions of CO
+
+emissions in the use phase. The “MINI Artwork Challenge” aimed
+  to "achieve a lasting change in driving behavior through artistic incentives”.
+
+130 participants took part in the pilot. These drivers were rewarded
+  for using the efficient driving mode of their MINIs. The more
+  frequently this mode was used, the further an AI-generated artwork
+  (consisting of stylized plants or animals) evolved. The image was then
+  displayed on the central screen at the start of each trip.
+
+Real world data from a representative BMW and MINI fully electric
+  fleet show that driving in the efficient driving mode generally
+  results in an average energy consumption reduction of about 7%. The
+  “MINI Artwork Challenge” encouraged participants to increase their
+  share of trips in the efficient driving mode to almost 40%, compared
+  to 25% in the baseline phase. This corresponds to a 60% increase in
+  trips in the efficient driving mode.
+
+We saw there are still some gaps to address in the field of smart
+  charging. Currently, smart charging enables cost-efficient charging
+  only at home, but optimal charging technologies are not yet widely
+  available in the electric vehicle market. Additionally, there is a
+  lack of awareness about the impact of charging behavior on the
+    CO
+
+footprint of an electric car. While price-optimized
+  charging is available for dynamic charging tariffs, it often lacks
+  optimization aimed at reducing CO
+
+emissions.
+
+Our idea was to provide clear CO
+
+information about the
+  country’s electricity mix to users, enabling them to shift their
+  charging to timeslots that are better in terms of CO
+
+emissions over a longer cycle. By applying the nudge concept, we
+  aimed to encourage and steer beneficial charging behavior. Ultimately,
+  this approach should contribute to reducing the CO
+
+footprint in both public and private spaces.
+
+The research question was: how can nudges effectively influence the
+  timing of electric vehicle charging to align with periods in which the
+  use of renewable energy sources is higher?
+
+The pilot project, conducted from April to July 2025, involved BMW
+  355 electric vehicle drivers in the Netherlands. A digital charging
+  feature called “COOL” was made available in Dutch and English through
+  the 360° Mobility app on iOS. This simple and insightful app showed
+  the CO
+
+emissions per kWh of electricity in real-time and
+  alerting the user when it dropped below a certain value. Charging and
+  vehicle data from all registered participants were collected on BMW
+  Labs. Additionally, qualitative interviews were conducted with 14
+  participants to gather in-depth insights.
+
+A total of 13.153 charging sessions were analyzed, and timeslots with
+  a cleaner energy mix were identified on 67 out of 87 days. Through
+  gamification, we successfully encouraged participants to shift their
+  charging sessions to time slots with a forecasted higher share of
+  renewables in the Dutch energy mix, achieving a 6% increase in such
+  charging sessions compared to the control group. In contrast,
+  providing forecasts and statistics alone had no significant effect.
+  Plug-in hybrid drivers were less likely to change their charging
+  behavior. Customers expressed three things:
+
+The post pilot survey with 90 participants also revealed a valuable
+  insight. When asked if the participant ‘would be willing to make an
+  extra effort to charge with reduced CO
+
+emissions, such as
+  by setting a charging window in their app’, 73% of participants
+  answered “yes”.  Notably, 62% of these environmentally motivated
+  participants already have a green electricity contract. This indicates
+  that even those who are already committed to sustainable energy use
+  are open to taking additional steps to further reduce their CO
+
+impact through charging in low-emission windows.
+
+In 2022, Rotterdam and BMW launched the Smart City Travel pilot. This
+  project focused on motorists who (regularly) drove from outside toward
+  the inner city of Rotterdam. BMW Group, Rotterdam, and the Erasmus
+  University Rotterdam investigated ways to entice motorists to park
+  their cars at a park-and-ride (P+R) on the outskirts of the city and
+  continue the last mile of their journeys using public or shared
+  transport. The question was: what is needed to motivate BMW drivers to
+  make this choice in advance and then actually switch modes when an
+  alternative mode is actively offered in the navigation?
+
+Results showed that information about alternative transport should
+  not only arrive in the car after the trip starts, as people are not
+  prepared for it or, for practical reasons (no coat, too many
+  belongings), cannot or do not want to switch. This led to the idea of
+  focusing more on transparency and providing drivers with insight into
+  their trips and offering alternatives as desired (before or after a
+  trip) in an app.
+
+A safe, healthy, and livable city is high on the agenda of the
+  Rotterdam municipality. This requires a new vision of future mobility,
+  where sustainability, traffic safety, accessibility, and flow play a
+  crucial role. Since 2018, BMW Group and the City of Rotterdam have
+  been working together to realize these shared ambitions and pilot
+  mobility solutions around integrating the car into the ecosystem of a
+  livable city.

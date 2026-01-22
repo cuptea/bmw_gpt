@@ -1,0 +1,66 @@
+================================================================================
+New software for millions of BMW vehicles with the latest software upgrade.
+================================================================================
+
+Date: 20.01.2023
+Categories: Press Release, Technology, Traffic Management, Infotainment, Control Concepts, Mobility of the future
+URL: https://www.press.bmwgroup.com/global/article/detail/T0407638EN/new-software-for-millions-of-bmw-vehicles-with-the-latest-software-upgrade
+
+--------------------------------------------------------------------------------
+
+Summary:
+--------------------------------------------------------------------------------
++++ Even more functions for the BMW Digital Key +++ Improvements in assistance systems +++ New mobile operator for personal eSIM +++
+
+Full Content:
+--------------------------------------------------------------------------------
+At the beginning of the year, the BMW Group
+  is once again updating the software in its vehicles with BMW iDrive
+  Operating System 7 and 8. At present, a about 4.7 million BMW vehicles
+  are upgradeable thanks to their hardware and BMW iDrive Operating
+  System. Since 2019, BMW has been offering free remote software
+  upgrades several times a year for infotainment, driving, driver
+  assistance, comfort and safety.
+
+A recent
+  update to BMW Digital Vehicle Access allows users to share the BMW
+  Digital Key for their vehicle between Apple iPhones and Android
+  smartphones for the first time. Shared BMW Digital Keys are also
+  easier to activate in the vehicle. With the BMW software upgrade, a
+  BMW Digital Key shared via smartphone can be activated directly in the
+  vehicle by entering an activation code. Previously, a conventional
+  vehicle key had to be located in the passenger compartment.
+
+As a further innovation,
+  the upcoming Remote Software Upgrade will introduce the Remote Control
+  Parking function for certain countries and vehicles. It allows
+  customers to perform remote-controlled parking manoeuvres outside the
+  vehicle using the My BMW App – such as manoeuvres previously recorded
+  in the vehicle with the Manoeuvring Assistant. Customers can also park
+  their vehicle forwards or backwards within a radius of six metres,
+  both lengthways and crossways.
+
+The BMW Remote Software Upgrade enables customers
+  of the mobile network operator AT&T in the USA to use the Personal
+  eSIM. The Personal eSIM integrates BMW vehicles with Operating System
+  8 into the customer's existing mobile phone contract and enables the
+  vehicle for the 5G cellular standard. This allows customers to make
+  phone calls without their smartphone in the vehicle, stream data via
+  the Wi-Fi hotspot and use video-services directly in the vehicle.
+
+The Remote Software Upgrade is currently
+  available for more than 30 BMW models and therefore almost all BMW
+  models with BMW Operating System 7 and 8. Customers can see the
+  software status in the settings menu of their vehicle under Remote
+  Software Upgrade and can search for available upgrades. Only the next
+  possible upgrade is ever offered for installation, the user can never
+  install the wrong version.
+
+The availability of upgrades, services and functions depends on
+  the vehicle model and equipment as well as the installed software
+  version in the respective country. The country pages of the
+
+provide
+  information on the content and requirements for the Remote Software
+  Upgrade that apply in the respective market.  Instructions and tips on
+  Remote Software Upgrade can be found in the corresponding

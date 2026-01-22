@@ -1,0 +1,115 @@
+================================================================================
+New environmental impact statement: All BMW Group operations in Parsdorf included in EMAS environmental register
+================================================================================
+
+Date: 27.10.2025
+Categories: Press Release, Environment, Corporate, CO2 Emissions, BMW Group Facilities, Production Plants, Awards, Sustainability, Responsibility
+URL: https://www.press.bmwgroup.com/global/article/detail/T0453528EN/new-environmental-impact-statement:-all-bmw-group-operations-in-parsdorf-included-in-emas-environmental-register
+
+--------------------------------------------------------------------------------
+
+Summary:
+--------------------------------------------------------------------------------
++++ Parsdorf high-voltage battery pilot plant included for first time +++  BMW Group meets strict requirements +++ Environmental impact statement now online +++
+
+Full Content:
+--------------------------------------------------------------------------------
+With the publication of its
+  Environmental Impact Statement 2024, all BMW Group operations in
+  Parsdorf are now part of the European environmental register, EMAS. In
+  addition to the BMW Group Cell Manufacturing Competence Centre (CMCC)
+  and test-parts logistics, the pilot plant for high-voltage batteries
+  in Parsdorf has been included in the environmental impact statement
+  and EMAS registration for the first time. EMAS stands for the
+  “Eco-Management and Audit Scheme”, which claims to be the most
+  stringent environmental management system in the world. “We are very
+  pleased with the EMAS registration of all our operations in Parsdorf,
+  which underlines that our processes operate at a very high level –
+  both economically and environmentally,” says Hansjörg Schilp, director
+  of the CMCC and pilot plant for high-voltage batteries in Parsdorf.
+  “The entire team has done an outstanding job.”
+
+To be listed in the EMAS Register, companies must fulfil strict
+  requirements and adhere to rigorous environmental standards. EMAS is a
+  globally recognised framework that enables organisations to manage and
+  continuously improve their environmental impact. A key element of the
+  EMAS environmental management system is the international
+  environmental management standard ISO 14001. EMAS also focuses on
+  measurable improvements, transparency and legal certainty. Auditing
+  aims to support companies in continuously improving their
+  environmental performance – for example, by using energy and material
+  more efficiently and reducing emissions, wastewater and waste from
+  their sites. Beyond these direct environmental impacts, EMAS also
+  addresses and evaluates indirect aspects, including the sustainability
+  of products, procurement and supply chains, contractor practices and
+  the environmental impact of employees commuting to work. (Source:
+
+The validated environmental impact statement and the resulting
+  inclusion in the EMAS Register by the Chamber of Commerce and Industry
+  (IHK) for Munich and Upper Bavaria underscore the rigorous
+  environmental standards upheld by the BMW Group in Parsdorf. Battery
+  cell production at the CMCC, one of the three Parsdorf facilities, is
+  powered entirely by electricity from 100% renewable energy sources.
+  Hot water for process ventilation is generated using waste heat
+  recovered from various primary processes, and all three Parsdorf
+  facilities utilise heat pumps in their operations. “On our pilot lines
+  for battery cells and high-voltage batteries, we are focusing on
+  reducing the use of critical raw materials and energy, avoiding
+  solvents and developing innovative circular economy approaches,”
+  explains Schilp. Raw materials represent a significant cost factor for
+  battery cells and high-voltage batteries. Efficient and responsible
+  use of these resources is therefore necessary and also makes economic
+  sense. The BMW Group is gaining valuable insights in this area in
+  Parsdorf. Residual materials from the production process are collected
+  and, wherever technically feasible, reintegrated into the
+  value-creation cycle at the BMW Group’s Competence Centres through
+  direct recycling. This innovative procedure enables residual materials
+  from battery cell production, as well as whole battery cells, to be
+  mechanically dismantled into their components.
+
+The environmental impact statement for the BMW Group’s Parsdorf 
+  operations (CMCC, pilot plant for high-voltage batteries and
+  test-parts logistics) has been independently reviewed by TÜV SÜD
+  Umweltgutachter GmbH and is now available online at:
+
+Cell manufacturing at the CMCC in Parsdorf begins with electrode
+  production: Here, the base material, comprising, for example, graphite
+  for the anode and nickel oxides for the cathode, with binders and
+  solvents, is metered and mixed in a precisely measured ratio. This
+  creates the so-called “slurry” – which means wafer-thin metal foils
+  are coated and then compressed after drying. In technical jargon, this
+  is referred to as “calendering”. The highest level of precision is
+  required: The foil is just a few micrometres thick – in other words,
+  thinner than the threads of a spider web – while the coating is in the
+  micrometre range. During cell assembly, the coated foils, referred to
+  in the jargon as calendered electrodes, are coiled into so-called
+  “jelly rolls” using the separator and inserted into the cell housing.
+  The cells are filled with electrolyte, then charged for the first time
+  and finally checked for functionality and quality.
+
+Parsdorf is also home to the BMW Group’s largest pilot plant for Gen6
+  high-voltage batteries, where production processes are developed and
+  tested before large-scale production begins at the series plants in
+  Debrecen (Hungary), Irlbach-Straßkirchen (Lower Bavaria), Shenyang
+  (China), San Luis Potosí (Mexico) and Woodruff (USA). More than 350
+  employees have been building initial high-voltage battery prototypes
+  here since 2023. In the meantime, these batteries have also been
+  delivered to the vehicle plant in Debrecen, Hungary, where they were
+  installed in test vehicles for the Neue Klasse. For series production,
+  the BMW Group sources battery cells for its high-voltage batteries
+  from leading cell manufacturers, who produce the cells to the
+  company's specifications. The highest technical standards apply. Upon
+  receipt of goods, additional measurements – such as voltage checks –
+  are carried out. Next comes cell clustering, where the battery cells
+  are connected to coolers. This step ensures optimal insulation and
+  cooling of the cells. The cell clusters and cell contact system are
+  then laser-cleaned and welded with pinpoint precision. The in-line
+  inspection continuously monitors each weld seam in real time. An
+  innovative foaming process follows, ensuring that all elements are
+  protected as a mechanical unit. The foam thus guarantees the safety,
+  stability and durability of the high-voltage battery. The housing is
+  then closed, sealed and riveted. In the final assembly step, the
+  Energy Master – the central control unit – is installed onto the
+  high-voltage battery. A permanently elastic sealing adhesive is
+  applied to ensure a reliable seal. Finally, each high-voltage battery
+  undergoes a 100% end-of-line inspection to ensure quality, safety and function.

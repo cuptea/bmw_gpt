@@ -56,10 +56,10 @@ def run_validation(model, valid_text, device, label):
 """#1 Prepare data"""
 
 """## 1.1 Load dataset from google drive"""
-texts = load_text_files(Path("./data/bmw_news"), 0.01)
+texts = load_text_files(Path("./data/bmw_news"), 1)
 
 """## 1.2 Create train and valid datasets"""
-train_data_percentage = 0.95
+train_data_percentage = 0.8
 train_data_file_number = int(len(texts) * train_data_percentage)
 train_strings = texts[:train_data_file_number]
 valid_strings = texts[train_data_file_number:]
@@ -106,7 +106,7 @@ sample_text(model, NUM_RETURN_SEQUENCES, MAX_LENGTH, enc, sample_tokens, device)
 
 acc_main_before = evaluate_multi_choice(model, device, bmw_multi_choice_data)
 
-"""## 2.7 Model fine training"""
+"""## 2.7 Model fine tuning"""
 
 train_loader = DataLoaderLite(B=8, T=64, text=train_text)
 model, epoch_loss_main = train(train_loader, model, 5, device)
@@ -218,4 +218,3 @@ plt.xticks(rotation=20, ha="right")
 plt.tight_layout()
 plt.savefig("validation_accuracy_comparison.png", dpi=150)
 plt.show()
-

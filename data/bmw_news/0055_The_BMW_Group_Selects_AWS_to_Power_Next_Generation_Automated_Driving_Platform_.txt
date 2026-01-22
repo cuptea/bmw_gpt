@@ -1,0 +1,111 @@
+================================================================================
+The BMW Group Selects AWS to Power Next-Generation Automated Driving Platform.
+================================================================================
+
+Date: 05.09.2023
+Categories: Press Release, Technology, Driving Experience, Driver Assistance
+URL: https://www.press.bmwgroup.com/global/article/detail/T0436780EN/the-bmw-group-selects-aws-to-power-next-generation-automated-driving-platform
+
+--------------------------------------------------------------------------------
+
+Summary:
+--------------------------------------------------------------------------------
++++ Leading luxury automaker is developing next-generation BMW vehicles with AWS and Qualcomm’s Snapdragon Ride Vision Platform to accelerate time to market and increase efficiency +++
+
+Full Content:
+--------------------------------------------------------------------------------
+Amazon Web Services (‘’AWS’’) today
+  announced the BMW Group has chosen AWS as the preferred cloud provider
+  for its automated driving platform. The BMW Group will develop its
+  next-generation advanced driver assistance system (ADAS) using AWS to
+  help innovate new features for its next generation of vehicles, the
+  “Neue Klasse,” set to launch in 2025. The new cloud-based system will
+  leverage BMW's pre-existing Cloud Data Hub on AWS, and will use AWS
+  compute, generative artificial intelligence (generative AI), Internet
+  of Things (IoT), machine learning, and storage capabilities to help
+  accelerate the delivery of highly automated BMW vehicles.
+
+“In the next decade, consumer habits and expectations will drive
+  more changes in the automotive industry than we’ve seen over the past
+  30 years,” said Dr. Nicolai Martin, senior vice president of Driving
+  Experience at BMW Group. “This is just the beginning of a new era of
+  highly automated driving, fueled by innovations in technology and
+  engineering. By collaborating with AWS, the BMW Group, along with our
+  partner, Qualcomm Technologies, is building our new automated driving
+  platform on AWS’s scalable, secure, and reliable infrastructure. We’re
+  tapping into AWS’s ability to help empower the next generation of
+  BMW’s automated driving and parking functions.”
+
+ADAS supports today’s drivers with early warning systems and
+  capabilities that make driving safer and more comfortable. These
+  systems use advanced software and onboard sensors to provide driver
+  warnings, automated braking, and steering functions designed to help
+  improve a vehicle’s performance on the road. By developing the next
+  generation ADAS platform on AWS, the BMW Group’s engineers can respond
+  more quickly to customer demands and deliver new features to help
+  improve the driving experience. This efficiency, supported by the
+  cloud, will help BMW continue to innovate features for its Neue Klasse
+  of vehicles and keep drivers focused on the experience on the road.
+
+The BMW Group has also joined Qualcomm Technologies, Inc., to
+  co-develop next-generation automated driving systems based on the open
+  and modular Snapdragon Ride Platform. The systems feature an
+  integrated Ride Vision software stack to enable 360-degree perception
+  for the vehicle. Together with AWS and Qualcomm Technologies, the BMW
+  Group’s engineers have access to leading hardware, vision software,
+  and cloud capabilities in an end-to-end automated driving development
+  platform. Placing the BMW Group’s automated driving platform in the
+  cloud helps break down development silos within vehicle software teams
+  at the BMW Group and helps foster greater global collaboration with
+  suppliers to accelerate automated driving innovation.
+
+“As the automotive industry evolves toward a new
+  high-performance, low-power, and highly scalable software-defined
+  vehicle architecture, we are proud to continue our long-standing,
+  strategic cooperation with the BMW Group to codevelop safer and more
+  secure AI-powered driver assistance technologies at scale,” said Nakul
+  Duggal, senior vice president and general manager of Automotive and
+  Cloud Computing at Qualcomm Technologies, Inc. "The Qualcomm®
+  Cloud AI 100 solution and Snapdragon Ride Platforms help deliver
+  automotive innovation to the BMW Group and leading brands across the
+  globe.  This strategic relationship with AWS and BMW brings together
+  leading-edge technologies from our respective industries to deliver a
+  modern cloud-native software development environment."
+
+The BMW Group will also use AWS to help scale its capacity to
+  handle vast increases in data creation and usage within automated
+  driving feature development. As automakers deploy higher-level
+  automated driving functions, such as adaptive cruise control, parking
+  assist, and piloted driving, the vehicles create more data for
+  engineering teams to analyze and utilize within future feature
+  development. This cloud-based infrastructure will help provide the
+  foundation for the BMW Group to develop and deliver new functions for
+  its vehicles, such as lane departure assist, automated lane change, or
+  hands-free driving functions, even faster.
+
+AWS services will help power this new scalable, automated
+  driving platform based on a common reference architecture,
+  accelerating the development life cycle and broadening it across BMW
+  models. For example, the platform provides the framework needed to
+  process, catalog, and store millions of miles of real-time driving
+  data in Amazon Simple Storage Service (Amazon S3). Engineers and data
+  scientists can then search, identify, and visualize relevant driving
+  scenes to develop and train models using Amazon SageMaker, AWS’s
+  service for building, training, and deploying machine learning models
+  in the cloud and on the edge. Engineers can also develop large-scale
+  simulations on AWS compute instances for verification. With this
+  approach, the BMW Group can test and validate new software versions
+  more efficiently, helping to ensure the system’s safety and shortening
+  time to market.
+
+“Automated driving is about more than just convenience; it’s
+  also aimed at providing driver assistance technology that helps
+  prevents injuries and saves lives,” said Wendy Bauer, general manager
+  of Automotive and Manufacturing at AWS. “Implementing these systems on
+  the BMW Group’s international scale requires an approach that can
+  process and analyze vast amounts of data, as well as learn and
+  innovate, so automakers can develop safer and more reliable automated
+  and ADAS systems. Working with AWS and Qualcomm Technologies, the BMW
+  Group has the tools required to help make its vision of providing
+  safe, premium quality, high performance, and highly automated driving
+  functions to its customers a reality.”

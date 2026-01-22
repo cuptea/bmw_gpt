@@ -1,0 +1,139 @@
+================================================================================
+Technology partners BMW and the German Bobsleigh, Luge, and Skeleton Federation fine-tune final details ahead of the Olympic Winter Games.
+================================================================================
+
+Date: 06.11.2025
+Categories: Press Release, Sports, Winter Sports
+URL: https://www.press.bmwgroup.com/global/article/detail/T0453823EN/technology-partners-bmw-and-the-german-bobsleigh-luge-and-skeleton-federation-fine-tune-final-details-ahead-of-the-olympic-winter-games
+
+--------------------------------------------------------------------------------
+
+Summary:
+--------------------------------------------------------------------------------
++++ Automotive technologies from the BMW Group powering the hunt for Olympic hundredths on the ice track +++ Development of customised spike shoes for bobsleigh and skeleton athletes reaches the next level +++ Data-based optimisation of material and racing line in luge for the new Olympic track in Cortina (ITA) +++ Images and video material available on the joint technology projects +++
+
+Full Content:
+--------------------------------------------------------------------------------
++++ Automotive technologies from the BMW Group powering the hunt for
+  Olympic hundredths on the ice track +++ Development of individualised
+  spike shoes for bobsleigh and skeleton athletes reaches the next level
+  +++ Data-based optimisation of material and racing line in luge for
+  the new Olympic track in Cortina (ITA) +++ Images and video material
+  available on the joint technology projects +++
+
+At the Olympic Winter Games 2022, Team
+  Germany celebrated twelve gold, ten silver, and five bronze medals.
+  The German Bobsleigh, Luge, and Skeleton Federation (BSD) contributed
+  the majority of them - nine golds, six silvers, and one bronze in
+  Beijing (CHN). It was an outstanding team result that the national
+  bobsleigh, skeleton, and luge squads are eager to repeat when the next
+  Olympic Winter Games take place in Milan and Cortina d’Ampezzo, Italy
+  (6–22 February 2026). Achieving that requires hard work in every area
+  and a constant pursuit of optimisation. To this end, the BSD continues
+  to rely on its technology partnership with the BMW Group, established
+  in 2010.
+
+Drawing on BMW’s expertise, technological capabilities, and
+  innovative strength from automotive engineering and motorsport, two
+  projects have been advanced for the 2026 Olympics - both designed to
+  deliver those decisive fractions of a second in the ice track: the BMW
+  Data Coach in luge and customised spike plates for bobsleigh and
+  skeleton shoes.
+
+It’s no secret that start times in bobsleigh and skeleton are
+  crucial, as they determine the speed athletes carry into the run -
+  there’s no “gas pedal” after that. To translate their athletic power
+  into acceleration on ice, athletes depend on the right footwear. The
+  force is transmitted solely through spike plates on the forefoot, with
+  more than 250 small, sharp spikes per shoe gripping the ice and
+  converting energy into motion. Any improvement to these plates
+  directly enhances performance in the track.
+
+Surprisingly, standard shoes are typically used in bobsleigh and
+  skeleton - without considering athletes’ individual preferences or
+  anatomical differences. The BMW Group identified optimisation
+  potential and, together with the BSD, began developing custom
+  spike-plate prototypes ahead of the 2022 Winter Olympics for skeleton
+  athletes. These plates can be mounted onto any preferred
+  track-and-field shoe using existing spike threads for secure fastening.
+
+Manufactured at the BMW Group Additive Manufacturing Campus in
+  Munich, the spike plates are produced using 3D printing - a process
+  BMW has been employing since 1991 across the entire vehicle lifecycle,
+  from concept to production and spare parts. This highly efficient
+  process uses a specialised design software that allows fast,
+  automated, and athlete-specific generation of 3D-print data.
+  Parameters such as geometry, stiffness, and spike shape are customised
+  and adapted to each athlete’s shoe using 3D scans. This algorithmic
+  design process offers enormous time savings and maximum flexibility as
+  plates can be printed, tested, and re-optimised in rapid cycles.
+
+The 3D-printed spike plates made their World Cup debut last season,
+  with teams such as Adam Ammour’s using them extensively. However,
+  development continued - athlete feedback and summer gait analysis data
+  revealed that some athletes performed better with softer soles and
+  plates. As a result, a second development track was launched, strongly
+  supported by Felix Straub, brakeman for Francesco Friedrich’s team. In
+  this version, the plates are milled from nylon, fitted with steel
+  spikes, and then glued and riveted to the shoe.
+
+A key material challenge is ensuring the steel spikes withstand
+  extreme loads without wearing or breaking. BMW specialists in
+  materials and process engineering developed a solution: the spikes are
+  plasma-nitrided - a hardening process in which nitrogen is ionized in
+  a vacuum at high temperature and diffuses into the steel, improving
+  surface hardness. BMW uses this technique for crankshafts in BMW
+  Motorrad engines and in motorsport applications.
+
+Now, all athletes on the German bobsleigh and skeleton teams can
+  choose between both systems, test them extensively before the
+  Olympics, and select their preferred option. After four years of
+  development, the result is a range of individualised options for every
+  athlete, foot type, shoe model, running style, and push-off position -
+  replacing the one-size-fits-all solution.
+
+In luge, the interplay between athlete and sled involves many
+  interdependent factors — optimising as many as possible for the best
+  run time is the key challenge. The BMW Data Coach delivers a major
+  advantage by enabling data-based analysis and optimisation of these
+  factors. The ideal interaction varies between athletes and tracks,
+  much like individualised car setups in motorsport. For the 2026 Games,
+  a new ice track has been built in Cortina, with only a limited number
+  of runs available before competition - making data-driven insights
+  even more valuable.
+
+Based on measurement and simulation methods, the Data Coach gives
+  lugers new ways to fine-tune their sled setup and identify the ideal
+  racing line. This approach is well-established in vehicle development
+  and motorsport. Since 2016, the BMW Group and BSD have been applying
+  and refining these methods in luge.
+
+Special sensors installed in the sled record extensive dynamic data,
+  allowing each run to be precisely reconstructed using dedicated
+  analysis software. The software was developed by former Junior World
+  Champion luger Dr. Julian von Schleinitz, now Head of Tech Excellence
+  at the BMW Group, who combines his athletic experience with
+  engineering expertise. Over the years, the growing dataset has made
+  the BMW Data Coach increasingly effective in identifying optimal lines
+  and refining sled setups.
+
+Today, the data volume is so large that - combined with computer
+  simulations - it allows predictive testing of new components and
+  configurations virtually, before any physical prototype is built or a
+  new line is tested on track. This significantly increases efficiency
+  and insight within the complex system of sled and athlete.
+
+For the Olympic season, the system - used extensively by 13-time
+  World Champion Felix Loch and six-time World Champion Max Langenhan -
+  has been further enhanced. The sensors now deliver more precise
+  readings on wet ice, and the hardware has been miniaturised to fit
+  into a regulation-compliant racing sled. This marks a major step
+  forward, as the measurements now come from a sled identical to
+  competition equipment.
+
+During the first international training period in Cortina in late
+  October and early November, valuable data were already collected.
+  These will now be analysed in detail to shape the Olympic race
+  strategy. A second test event at the Olympic track in late November
+  will offer another opportunity for refinement - before the athletes
+  battle for gold in February 2026, where every thousandth of a second counts.
